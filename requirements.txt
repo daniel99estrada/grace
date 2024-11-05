@@ -1,0 +1,6 @@
+streamlit
+boto3
+ntplib
+pillow
+requests
+streamlit-extras
